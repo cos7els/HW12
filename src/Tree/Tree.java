@@ -13,6 +13,7 @@ public class Tree {
             see(new File(in.nextLine()));
         }
     }
+
     private static void see(File path) {
         File[] files = path.listFiles();
         if (files != null) {
@@ -34,4 +35,5 @@ public class Tree {
             System.out.printf("Directory \"%s\" does not exist%n", path.getAbsolutePath());
         }
     }
+    
 }
