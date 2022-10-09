@@ -1,0 +1,8 @@
+docnm489745236 - invalid number length, not starts with docnum or contract
+contract78954231 - invalid number length
+contract789 54231 - number contains invalid characters, invalid number length
+cotract789 54231 - number contains invalid characters, invalid number length, not starts with docnum or contract
+cotract789/54231 - number contains invalid characters, invalid number length, not starts with docnum or contract
+cotract789_54231 - number contains invalid characters, invalid number length, not starts with docnum or contract
+cotract789-54231 - number contains invalid characters, invalid number length, not starts with docnum or contract
+jfir75ufnd83jfyrg - invalid number length, not starts with docnum or contract
